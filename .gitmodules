@@ -1,0 +1,3 @@
+[submodule "ApplePieApp"]
+	path = ApplePieApp
+	url = git@github.com:c4arl0s/ApplePieApp.git
